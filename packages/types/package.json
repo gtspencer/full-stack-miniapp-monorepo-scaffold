@@ -1,0 +1,15 @@
+{
+    "name": "@shared/schemas",
+    "version": "0.1.0",
+    "private": true,
+    "type": "module",
+    "main": "./src/index.js",
+    "types": "./src/index.d.ts",
+    "files": [
+      "src"
+    ],
+    "scripts": {
+      "build": "echo 'Types package built successfully'"
+    }
+  }
+  
